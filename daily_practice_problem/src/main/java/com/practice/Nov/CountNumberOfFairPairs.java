@@ -6,7 +6,7 @@ import java.util.List;
 
 public class CountNumberOfFairPairs {
     public static void main(String[] args) {
-        int[] nums = {1,7,9,2,5};
+        int[] nums = {0,1,7,4,4,5};
         int lower = 3;
         int upper = 11;
         List<int[]> resultList = new ArrayList<>();
